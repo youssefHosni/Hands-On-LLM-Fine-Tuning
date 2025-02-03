@@ -15,6 +15,10 @@ Hands-on tutorials on fine-tuning various LLMs using different fine-tuning techn
 ## Instruction Fine-Tunning ##
 * [Instruction Fine-Tuning FLAN-T5 Large Language Models for Summarization: Step-by-Step Guide](https://medium.com/towards-artificial-intelligence/instruction-fine-tuning-large-language-models-for-summarization-step-by-step-guide-bb1e13a2f9cb?sk=edfd12cd43006dcbd2db906c6c44c5b1)
 * [Instruction Fine-Tuning LLM using SFT for Financial Sentiment: A Step-by-Step Guide](https://medium.com/towards-artificial-intelligence/instruction-fine-tuning-llm-using-sft-for-financial-sentiment-a-step-by-step-guide-f93c4aa0153a?sk=7cc18ab6e32ecbe608432f17094b69ac)
+
+## Reasoning Fine-Tunning ##
+* [Fine-Tuning DeepSeek R1 on Reasoning Task with Unsloth [Part 1]](https://open.substack.com/pub/youssefh/p/fine-tuning-deepseek-r1-on-reasoning?r=1sqbmi&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)
+* [Fine-Tuning DeepSeek R1 on Reasoning Task with Unsloth [Part 2]](https://open.substack.com/pub/youssefh/p/fine-tuning-deepseek-r1-on-reasoning-2d2?r=1sqbmi&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)
   
 ## Fine-Tunning Frameworks ##
 * [Fine-Tuning Mistral 7B with Hugging Face AutoTrain to Generate Better Midjourney Prompts](https://medium.com/gitconnected/fine-tuning-mistral-7b-with-hugging-face-autotrain-to-generate-better-midjourney-prompts-fb96057c138a?sk=84ab8c1c81987290333d482d285ed0fd)
