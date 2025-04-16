@@ -19,6 +19,8 @@ Hands-on tutorials on fine-tuning various LLMs using different fine-tuning techn
 ## Reasoning Fine-Tunning ##
 * [Fine-Tuning DeepSeek R1 on Reasoning Task with Unsloth [Part 1]](https://open.substack.com/pub/youssefh/p/fine-tuning-deepseek-r1-on-reasoning?r=1sqbmi&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)
 * [Fine-Tuning DeepSeek R1 on Reasoning Task with Unsloth [Part 2]](https://open.substack.com/pub/youssefh/p/fine-tuning-deepseek-r1-on-reasoning-2d2?r=1sqbmi&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)
+* [Gemma 3 Financial Reasoning Fine-Tuning](https://open.substack.com/pub/youssefh/p/gemma-3-fine-tuning-crash-course?r=1sqbmi&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)
+* [Gemma 3 Medical Reasoning Fine-Tuning](https://open.substack.com/pub/youssefh/p/gemma-3-reasoning-fine-tuning-crash?r=1sqbmi&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)
   
 ## Fine-Tunning Frameworks ##
 * [Fine-Tuning Mistral 7B with Hugging Face AutoTrain to Generate Better Midjourney Prompts](https://medium.com/gitconnected/fine-tuning-mistral-7b-with-hugging-face-autotrain-to-generate-better-midjourney-prompts-fb96057c138a?sk=84ab8c1c81987290333d482d285ed0fd)
