@@ -4,7 +4,7 @@ Hands-on tutorials on fine-tuning various LLMs using different fine-tuning techn
 [![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)](https://youssefh.substack.com/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yousefhosni)
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/youssef19)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCeEcSgRzYFuVt-2Yk1ULdhQ)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@ToDataBeyond)
 
 ## Full Fine-Tunning ##
 * [Training GPT-2 From Scratch: A Step-by-Step Guide](https://medium.com/gitconnected/training-gpt-2-from-scratch-a-step-by-step-guide-844bb7fc5f94?sk=0253e805c4d3a262994cdfe2ca0029c7)
